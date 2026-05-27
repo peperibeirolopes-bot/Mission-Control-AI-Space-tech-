@@ -22,7 +22,7 @@ O projeto utiliza o modelo Llama 3.2 via Ollama para analisar dados simulados de
 
 ![Painel da missão](assets/painel_missao.png)
 
-### Alerta Crítico
+### Respostas IA
 
 ![Alerta crítico](assets/respostas_IA.png)
 
