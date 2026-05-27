@@ -1,4 +1,4 @@
-# 🚀 Mission Control AI
+# 🚀 Mission Control AI - Space Tech
 
 ## 👨‍🚀 Integrantes
 
