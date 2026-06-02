@@ -42,4 +42,4 @@ O modelo Llama será instalado automaticamente durante a execução do projeto.
 
 ## 🎥 Vídeo de Demonstração
 
-[Assistir ao vídeo](COLE_O_LINK_DO_VIDEO_AQUI)
+[Assistir ao vídeo](https://youtu.be/vsnwkHXQ1uM)
